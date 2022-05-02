@@ -2,9 +2,7 @@
 
 ----------------------
 
-Systems Security Engineer @ VentureNet.
-
-Certs: A+, Linux+, Security+, MS MTA, LPIC-1
+Systems SResearcher and Developer.
 
 ```
 sudo rm -rf --no-preserve-root 2>&1 /dev/null
