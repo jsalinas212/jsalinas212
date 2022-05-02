@@ -2,7 +2,7 @@
 
 ----------------------
 
-Systems SResearcher and Developer.
+Systems Researcher and Developer.
 
 ```
 sudo rm -rf --no-preserve-root 2>&1 /dev/null
