@@ -1,4 +1,4 @@
-## Jorge A Salinas Jr
+## JA Salinas Jr
 
 ----------------------
 
